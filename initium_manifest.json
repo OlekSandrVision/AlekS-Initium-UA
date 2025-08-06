@@ -1,0 +1,31 @@
+{
+  "platform": "AlekS-Initium-UA",
+  "version": "1.0",
+  "roles": {
+    "Founder": {
+      "can_manage_roles": true,
+      "can_access_sensitive_data": true,
+      "can_delegate": true
+    },
+    "Analyst": {
+      "can_view_data": true,
+      "can_request_decryption": true,
+      "requires_approval": true
+    },
+    "User": {
+      "can_submit_requests": true,
+      "can_view_own_data": true
+    }
+  },
+  "ethics": {
+    "decryption_requires_consent": true,
+    "all_decryption_logged": true,
+    "role_changes_audited": true,
+    "platform_is_adaptable": true
+  },
+  "governance": {
+    "founder_can_modify_manifest": true,
+    "future_roles_allowed": true,
+    "decentralization_supported": true
+  }
+}
