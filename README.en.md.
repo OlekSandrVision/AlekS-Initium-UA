@@ -1,45 +1,128 @@
-# AlekS-Initium-UA
-📖 [Humility Through Imperfection](humility_through_imperfection.md) — an ethical reflection on the platform’s philosophy
+# 🛡️ AlekS-Initium-UA Platform  
+📘 [Читати українською](README.md)
 
+## 🎯 Mission  
+To build an autonomous, ideologically coherent infrastructure for legal action — rooted in dignity, transparency, and a shared ethical course — without dependence on state legitimization.
 
-A platform for ethical digital collaboration, legal autonomy, and systemic reform.
-
----
-
-## 🧭 For Future Maintainers
-
-This platform was created with a clear ethical foundation: transparency, independence, and legal autonomy.  
-Its modular architecture and open documentation are designed to support adaptation, expansion, and responsible stewardship.
-
-If you choose to maintain, extend, or acquire AlekS-Initium-UA, please consider:
-
-- **Preserving its core principles** — as outlined in `initium_manifest.uk.json`
-- **Respecting its open-source spirit** — collaborative, auditable, and inclusive
-- **Adapting language and structure** only when necessary and with clarity
-- **Using English as the default global language**, unless regional needs require otherwise
-
-This is not just a repository — it’s a seed for ethical systems.  
-Its future depends on those who dare to build with integrity.
+## 🔑 Philosophy  
+> Code can be a tool of resistance — if it’s created with purpose, not convenience.
 
 ---
 
-## 📚 Documentation
+## 📁 Repository Structure
 
-- [README.uk.md](README.uk.md) — Ukrainian version
-- [initium_manifest.uk.json](initium_manifest.uk.json) — Foundational principles
-- [CONTRIBUTING.md](CONTRIBUTING.md) — Guidelines for contributors
-
----
-
-## 🌍 Vision
-
-AlekS-Initium-UA is part of a broader movement for legal transparency, ethical infrastructure, and collaborative empowerment.  
-We welcome contributors from all regions, disciplines, and walks of life.
+| Directory              | Purpose                                                           |
+|------------------------|-------------------------------------------------------------------|
+| `/platform/`           | Core logic, operational modules, API                             |
+| `/docs/`               | Manifest, ethical declarations, legal templates                  |
+| `/visuals/`            | Emblems, resistance graphics, visual documentation elements      |
+| `/security-modules/`   | Data protection, metadata cleansing, Signal/Matrix integration   |
+| `/case-tracking/`      | Case logging systems, timelines, analytics                       |
+| `/custom-modules/`     | Space for adaptation by future contributors                      |
 
 ---
 
-## 🤝 Get Involved
+## ⚙️ Platform Capabilities
 
-Whether you're a developer, legal expert, translator, or visionary — your input matters.  
-Start by exploring the issues, improving documentation, or proposing new modules.
+- 🔐 **AuthBridge** — authentication via ethical access  
+- 🧼 **Metadata Cleanser** — document metadata removal  
+- 📁 **CaseVault** — secure storage and analysis of legal materials  
+- 📊 **EthicsCompiler** — decision validation against ethical standards  
+- 📡 **TrustChannel** — secure communication between participants  
+- 📜 `Manifest.md` — ideological map and call to action  
+
+---
+
+## 🧶 Future Transfer
+
+- Adaptation space: `/custom-modules/`  
+- Invitation via `incoming-vision.md`  
+- Localization via `my_local_manifest.md` — for the next community  
+- The platform is not tied to a person — it’s tied to values  
+- The new owner receives logic, tools, documentation — and an ethical compass  
+
+---
+
+## 📢 Transfer Announcement
+
+**Name**: AlekS-Initium-UA  
+**Type**: Digital platform for autonomous, transparent legal engagement  
+**Mode of transfer**: Sale / partnership / ethical agreement  
+**GitHub**: [https://github.com/OlekSandrVision/AlekS-Initium-UA](https://github.com/OlekSandrVision/AlekS-Initium-UA)
+
+### Potential for the next owner:
+- Freedom to modify, provided core principles are respected  
+- Integration into legal projects, law firms, educational initiatives  
+- Adaptation for NGOs, grant foundations, judicial processes  
+
+---
+
+## 📜 Declaration of Values
+
+### ⚖️ Core Principles:
+1. Transparency — openness of decisions and actions  
+2. Autonomy — independent thinking and ethics  
+3. Resistance to corruption — no compromise with conscience  
+4. Ethical continuity — transmission of the initiative’s spirit  
+
+---
+
+## 🔧 Architecture of Trust
+
+- Open documentation  
+- Modular design for local adaptation  
+- Voluntary participation and transparent contribution  
+
+---
+
+## ✅ Technical Integrity 💎
+
+- Modular structure: `encryptor`, `access_manager`, `security` — clearly separated responsibilities  
+- Regex validation: name and email — precise, minimal  
+- Categorization: `classify_complaint()` — simple yet effective  
+- Data protection: encrypted submissions, access control, logging — all in place  
+
+---
+
+## 🔐 Ethical Architecture
+
+- Privacy: clearly stated — no third-party data sharing  
+- Local storage: no cloud, no external APIs — full user control  
+- Consent: no submission without agreement  
+
+---
+
+## 🎯 Role Logic
+
+- Flexibility: founder has full control, analysts access statistics, users submit only  
+- Access management: intuitive, with clear sidebar UI  
+
+---
+
+## 📊 Analytics
+
+- Category filtering  
+- Monthly charts  
+- Submission statistics  
+- Download and purge — full control  
+
+---
+
+## ⚖️ Ethical and Legal Foundation
+
+All components of the platform — from code to documentation — are distributed under the [ethically-oriented AlekS-Ethical-License v1.0](LICENSE.md), which prohibits use in contexts that violate principles of dignity, transparency, and nonviolence.  
+This is not just a legal document — it’s a declaration of intent: the platform serves the common good, not private interests.
+
+---
+
+## 🤝 Call to Action
+
+> This platform is not just code. It is a form of digital resistance.  
+> It was created to support those who have not broken — and to inspire those beginning to think freely.
+
+---
+
+With respect,  
+**Initiative Author — _AlekSandr M_**
+
 
