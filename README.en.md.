@@ -1,33 +1,44 @@
-# 🛡️ AlekS-Initium-UA Platform  
 📘 [Читати українською](README.md)
 
-## 🎯 Mission  
-To build an autonomous, ideologically coherent infrastructure for legal action — rooted in dignity, transparency, and a shared ethical course — without dependence on state legitimization.
+# 🌐 AleksVision: A Platform for Digital Trust and Ethical Collaboration
 
-## 🔑 Philosophy  
-> Code can be a tool of resistance — if it’s created with purpose, not convenience.
+**AleksVision** is an independent, transparent platform that empowers anyone  
+to submit legal requests, receive support, and co-create meaningful change.  
+No registration. No ads. No manipulation.
+
+---
+
+## 🛡️ AlekS-Initium-UA Platform
+
+### 🎯 Mission  
+To build an autonomous, ideologically clear infrastructure for legal action,  
+rooted in dignity, transparency, and a shared ethical direction —  
+without dependence on state legitimization.
+
+### 🔑 Philosophy  
+> Code can be a tool of resistance — if built with purpose, not convenience.
 
 ---
 
 ## 📁 Repository Structure
 
-| Directory              | Purpose                                                           |
-|------------------------|-------------------------------------------------------------------|
-| `/platform/`           | Core logic, operational modules, API                             |
-| `/docs/`               | Manifest, ethical declarations, legal templates                  |
-| `/visuals/`            | Emblems, resistance graphics, visual documentation elements      |
-| `/security-modules/`   | Data protection, metadata cleansing, Signal/Matrix integration   |
-| `/case-tracking/`      | Case logging systems, timelines, analytics                       |
-| `/custom-modules/`     | Space for adaptation by future contributors                      |
+| Directory              | Purpose                                                             |
+|------------------------|---------------------------------------------------------------------|
+| `/platform/`           | Core logic, operational modules, API                               |
+| `/docs/`               | Manifest, ethical declarations, legal templates                    |
+| `/visuals/`            | Emblems, resistance graphics, visual documentation elements        |
+| `/security-modules/`   | Data protection, metadata cleansing, Signal/Matrix integration     |
+| `/case-tracking/`      | Case logging systems, timelines, analytics                         |
+| `/custom-modules/`     | Space for adaptation by future contributors                        |
 
 ---
 
 ## ⚙️ Platform Capabilities
 
 - 🔐 **AuthBridge** — authentication via ethical access  
-- 🧼 **Metadata Cleanser** — document metadata removal  
-- 📁 **CaseVault** — secure storage and analysis of legal materials  
-- 📊 **EthicsCompiler** — decision validation against ethical standards  
+- 🧼 **Metadata Cleanser** — cleans documents of metadata  
+- 📁 **CaseVault** — stores and analyzes legal materials  
+- 📊 **EthicsCompiler** — checks decisions for ethical alignment  
 - 📡 **TrustChannel** — secure communication between participants  
 - 📜 `Manifest.md` — ideological map and call to action  
 
@@ -35,23 +46,23 @@ To build an autonomous, ideologically coherent infrastructure for legal action �
 
 ## 🧶 Future Transfer
 
-- Adaptation space: `/custom-modules/`  
+- Expansion space: `/custom-modules/`  
 - Invitation via `incoming-vision.md`  
-- Localization via `my_local_manifest.md` — for the next community  
-- The platform is not tied to a person — it’s tied to values  
-- The new owner receives logic, tools, documentation — and an ethical compass  
+- Adaptation via `my_local_manifest.md` — for new communities  
+- The platform is not tied to a person — it is tied to values  
+- The next owner receives logic, tools, documents — and an ethical compass  
 
 ---
 
 ## 📢 Transfer Announcement
 
 **Name**: AlekS-Initium-UA  
-**Type**: Digital platform for autonomous, transparent legal engagement  
-**Mode of transfer**: Sale / partnership / ethical agreement  
+**Type**: Digital platform for autonomous, transparent legal activity  
+**Interaction model**: Sale / partnership / transfer with ethical agreement  
 **GitHub**: [https://github.com/OlekSandrVision/AlekS-Initium-UA](https://github.com/OlekSandrVision/AlekS-Initium-UA)
 
 ### Potential for the next owner:
-- Freedom to modify, provided core principles are respected  
+- Freedom to modify, respecting core principles  
 - Integration into legal projects, law firms, educational initiatives  
 - Adaptation for NGOs, grant foundations, judicial processes  
 
@@ -62,67 +73,66 @@ To build an autonomous, ideologically coherent infrastructure for legal action �
 ### ⚖️ Core Principles:
 1. Transparency — openness of decisions and actions  
 2. Autonomy — independent thinking and ethics  
-3. Resistance to corruption — no compromise with conscience  
-4. Ethical continuity — transmission of the initiative’s spirit  
+3. Anti-corruption — no compromise with conscience  
+4. Ethical continuity — passing on the spirit of the initiative  
 
 ---
 
 ## 🔧 Architecture of Trust
 
 - Open documentation  
-- Modular design for local adaptation  
+- Modularity for local adaptation  
 - Voluntary participation and transparent contribution  
 
 ---
 
 ## ✅ Technical Integrity 💎
 
-- Modular structure: `encryptor`, `access_manager`, `security` — clearly separated responsibilities  
-- Regex validation: name and email — precise, minimal  
-- Categorization: `classify_complaint()` — simple yet effective  
+- Modularity: `encryptor`, `access_manager`, `security` — clearly separated responsibilities  
+- Regex: precise name and email validation  
+- Categorization: `classify_complaint()` — simple yet effective logic  
 - Data protection: encrypted submissions, access control, logging — all in place  
 
 ---
 
 ## 🔐 Ethical Architecture
 
-- Privacy: clearly stated — no third-party data sharing  
+- Privacy: clearly stated — no data shared with third parties  
 - Local storage: no cloud, no external APIs — full user control  
-- Consent: no submission without agreement  
+- Consent: without it — no record is made  
 
 ---
 
-## 🎯 Role Logic
+## 🎯 Role-Based Logic
 
-- Flexibility: founder has full control, analysts access statistics, users submit only  
-- Access management: intuitive, with clear sidebar UI  
+- Flexibility: founder has full control, analysts access statistics, users can submit only  
+- Access management: intuitive, with clear UI in the sidebar  
 
 ---
 
 ## 📊 Analytics
 
 - Category filtering  
-- Monthly charts  
+- Monthly graphs  
 - Submission statistics  
-- Download and purge — full control  
+- Uploading and cleansing — all under control  
 
 ---
 
 ## ⚖️ Ethical and Legal Foundation
 
-All components of the platform — from code to documentation — are distributed under the [ethically-oriented AlekS-Ethical-License v1.0](LICENSE.md), which prohibits use in contexts that violate principles of dignity, transparency, and nonviolence.  
-This is not just a legal document — it’s a declaration of intent: the platform serves the common good, not private interests.
+All platform components — from code to documentation — are distributed under an [ethically-oriented license](LICENSE.md),  
+which prohibits use in contexts that violate principles of dignity, transparency, and nonviolence.  
+This is not just a legal document — it is a declaration of intent: the platform serves the common good, not private interests.
 
 ---
 
 ## 🤝 Call to Action
 
 > This platform is not just code. It is a form of digital resistance.  
-> It was created to support those who have not broken — and to inspire those beginning to think freely.
+> It was built to support those who remain unbroken — and to inspire those beginning to think freely.
 
 ---
 
 With respect,  
-**Initiative Author — _AlekSandr M_**
-
-
+**Founder — OlekSandr / AleksVision**
