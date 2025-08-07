@@ -1,5 +1,7 @@
 # AlekS-Initium-UA
 
+🇺🇦 [Читати українською](README.md)
+
 **An independent legal-tech platform for ethical digital collaboration in Ukraine.**
 
 ## 🎯 Purpose
