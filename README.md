@@ -42,7 +42,20 @@
 
 ---
 
-## 📂 Ліцензія
+## 📂 Ліцензія / License
 
-Відкрита для людства. Без обмежень. Без комерції. Лише істина.
+Цей репозиторій передано у суспільне надбання за умовами Creative Commons Zero v1.0 Universal (CC0 1.0).  
+Ви можете копіювати, змінювати, поширювати і використовувати матеріали без обмежень — навіть у комерційних цілях — без дозволу автора.
+
+Автор: AleksVision  
+Рік: 2025
+
+---
+
+This repository is dedicated to the public domain under the terms of Creative Commons Zero v1.0 Universal (CC0 1.0).  
+You may copy, modify, distribute, and use the materials without restriction — even for commercial purposes — without asking permission.
+
+Author: AleksVision  
+Year: 2025
+
 
