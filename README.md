@@ -55,6 +55,30 @@
 This repository is dedicated to the public domain under the terms of Creative Commons Zero v1.0 Universal (CC0 1.0).  
 You may copy, modify, distribute, and use the materials without restriction — even for commercial purposes — without asking permission.
 
+---
+
+## 📜 Передача платформи / Platform Transfer
+
+### 🇺🇦 Українською
+
+Передача платформи можлива виключно у двох формах:
+
+1. **Оренда** — тимчасове користування платформою на узгоджених умовах, з фінансовою компенсацією автору.
+2. **Продаж** — остаточна передача усіх прав новому власнику. Після продажу автор не претендує на жоден контроль чи втручання.
+
+Інші форми передачі не передбачені.
+
+---
+
+### 🇬🇧 English
+
+Platform transfer is only possible in two forms:
+
+1. **Rental** — temporary use of the platform under agreed terms, with financial compensation to the author.
+2. **Sale** — full and final transfer of all rights to the new owner. After the sale, the author does not claim any control or involvement.
+
+No other forms of transfer are permitted.
+
 Author: AleksVision  
 Year: 2025
 
